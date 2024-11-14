@@ -1,0 +1,10 @@
+#!/usr/bin/gnuplot
+
+set palette defined (0 '#e41a1c',\
+	             1 '#377eb8',\
+		     2 '#4daf4a',\
+		     3 '#984ea3',\
+		     4 '#ff7f00',\
+		     5 '#ffff33',\
+		     6 '#a65628',\
+		     7 '#f781bf')
