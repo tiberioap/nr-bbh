@@ -1,0 +1,11 @@
+cff-version: 0.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Tibério"
+  given-names: "Pereira"
+  orcid: "https://orcid.org/0000-0003-1856-6881"
+title: "Numerical Relativistic Binary Black Hole"
+version: 0.1.0
+doi: 10.5281/zenodo.14166347
+date-released: 2024-11-14
+url: https://github.com/tiberioap/nr-bbh
