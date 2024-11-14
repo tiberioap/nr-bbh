@@ -1,6 +1,6 @@
 # **Numerical Relativistic Binary Black Hole**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7127963.svg)](https://doi.org/10.5281/zenodo.7127963)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14166347.svg)](https://doi.org/10.5281/zenodo.14166347)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tiberioap/grav_waldo/blob/main/LICENSE)
 [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1856-6881)
 
@@ -38,3 +38,18 @@ To compile and run this code, ensure the following dependencies are installed:
 - [GSL](https://www.gnu.org/software/gsl/) (GNU Scientific Library);
 - [FFTW3](http://www.fftw.org/) (Fastest Fourier Transform in the West);
 - [Gnuplot](http://www.gnuplot.info/) for visualization.
+
+## BibTeX Citation
+
+```
+@software{14166347,
+  author       = {Pereira, Tibério},
+  title        = {tiberioap/nr-bbh: First Release},
+  month        = nov,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v0.1.0},
+  doi          = {10.5281/zenodo.14166347},
+  url          = {https://doi.org/10.5281/zenodo.14166347}
+}
+```
