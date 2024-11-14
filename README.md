@@ -1,6 +1,5 @@
 # **Numerical Relativistic Binary Black Hole**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7127963.svg)](https://doi.org/10.5281/zenodo.7127963)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tiberioap/grav_waldo/blob/main/LICENSE)
 [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1856-6881)
 
